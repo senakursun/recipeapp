@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FF9A00</color>
+    <color name="brown">#433232</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="youtube">#C84141</color>
+    <color name="pink">#ECDEDE</color>
+    <color name="gray">#EDEBEB</color>
+    <color name="darkgray">#4E4D4D</color>
+    <color name="hintTextColor">#787878</color>
+    <color name="red">#B3360F</color>
+    <color name="transparent">#00000000</color>
+        <!-- Diğer renk tanımlamaları -->
+
+
+</resources>
